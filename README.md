@@ -1,5 +1,3 @@
-# explainability-driven-harmful-content-detection
-
 # Beyond Accuracy: Explainability-Driven Analysis of Harmful Content Detection
 
 This repository contains code and artifacts for the paper:
